@@ -49,19 +49,3 @@ Key features include:
 - Experience seamless interactivity with minimal setup  
 
 ---
-
-## 🔗 Quick Links
-
-- Sector Analysis  
-- CPR Visualization  
-- Sentiment Analysis  
-
-*(Note: Links lead to additional detailed analysis tools within the app.)*
-
----
-
-## ⚠️ Disclaimer
-
-This dashboard is for **educational and informational purposes only**. It is not intended as financial advice. Always perform your own research or consult a professional before making investment decisions. Past performance does not guarantee future results.
-
----
